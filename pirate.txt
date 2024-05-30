@@ -1,0 +1,14 @@
+Ahoy,Hello
+Avast,Attention
+Aye,Yes
+Bail out,Assist
+Belay,Stop
+Bilge,Nonsense
+Booty,Loot
+Chew the fat,Chat
+Davy Jones’s locker,Sea
+Fair winds,Farewell
+Grub,Food
+Lubber,Landlubber
+Pillage,Rob
+Scuttlebutt,Gossip
